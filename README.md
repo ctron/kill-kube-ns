@@ -14,7 +14,7 @@ This scripts automates the steps suggestes by some people on the comments of the
 ./kill-kube-ns myproject
 ~~~
 
-**Note:** You will need to be logged in to your cluster, and have the necessary permissions.
+**Note:** You will need to be logged in to your cluster, and have the necessary permissions. Make sure that your port `8001` is available.
 
 ## Pre-requisites
 
